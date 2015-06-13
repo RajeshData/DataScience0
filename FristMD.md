@@ -1,8 +1,8 @@
 # markdown heading 1
 
-## markdown headign TWO
+## markdown heading TWO
 
-* one
-* two
-* three
+*one
+*two
+*three
 
